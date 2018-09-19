@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FibionacciProject</string>
+    <string name="click_next_to_start">Click next to start!</string>
+    <string name="Button">Next</string>
+</resources>
